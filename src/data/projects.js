@@ -1,16 +1,18 @@
+import mayasHome from '../assets/projects/mayas-home.png'
 export const projects = [
   {
-    id: 1,
-    title: "Maya's Treasures",
-    category: 'E-Commerce',
-    description:
-      'A clean online thrift store with product listings, search, and cart functionality — built to help a small business owner sell sustainably and reach more customers.',
-    tech: ['React', 'CSS3', 'JavaScript'],
-    gradient: 'linear-gradient(135deg, #5b21b6 0%, #a21caf 55%, #db2777 100%)',
-    github: 'https://github.com/Mrhonda12',
-    live: null,
-    featured: true,
-  },
+  id: 1,
+  title: "Maya's Treasures",
+  category: 'E-Commerce',
+  description:
+    'A clean online thrift store with product listings, search, and cart functionality — built to help a small business owner sell sustainably and reach more customers.',
+  tech: ['React', 'CSS3', 'JavaScript'],
+  gradient: 'linear-gradient(135deg, #5b21b6 0%, #a21caf 55%, #db2777 100%)',
+  github: 'https://github.com/Mrhonda12',
+  live: mayas-treasures.vercel.app,
+  featured: true,
+  image: mayasHome
+},
   {
     id: 2,
     title: 'Food Truck Website',
@@ -20,7 +22,7 @@ export const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript'],
     gradient: 'linear-gradient(135deg, #92400e 0%, #d97706 55%, #fbbf24 100%)',
     github: 'https://github.com/Mrhonda12',
-    live: null,
+    live: food-truck-gamma-seven.vercel.app,
   },
   {
     id: 3,
@@ -43,7 +45,7 @@ export const projects = [
     tech: ['React', 'Vite', 'CSS Modules'],
     gradient: 'linear-gradient(135deg, #1e3a5f 0%, #1d4ed8 55%, #3b82f6 100%)',
     github: 'https://github.com/Mrhonda12',
-    live: null,
+    live: marc-portfolio-three.vercel.app,
   },
   {
     id: 5,
