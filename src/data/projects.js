@@ -8,7 +8,7 @@ export const projects = [
   tech: ['React', 'CSS3', 'JavaScript'],
   gradient: 'linear-gradient(135deg, #5b21b6 0%, #a21caf 55%, #db2777 100%)',
   github: 'https://github.com/Mrhonda12',
-  live: mayas-treasures.vercel.app,
+  live: 'https://mayas-treasures.vercel.app',
   featured: true,
   image: null
 },
@@ -21,7 +21,7 @@ export const projects = [
     tech: ['HTML5', 'CSS3', 'JavaScript'],
     gradient: 'linear-gradient(135deg, #92400e 0%, #d97706 55%, #fbbf24 100%)',
     github: 'https://github.com/Mrhonda12',
-    live: food-truck-gamma-seven.vercel.app,
+    live: 'https://food-truck-gamma-seven.vercel.app',
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const projects = [
     tech: ['React', 'Vite', 'CSS Modules'],
     gradient: 'linear-gradient(135deg, #1e3a5f 0%, #1d4ed8 55%, #3b82f6 100%)',
     github: 'https://github.com/Mrhonda12',
-    live: marc-portfolio-three.vercel.app,
+    live: 'https://marc-portfolio-three.vercel.app',
   },
   {
     id: 5,
