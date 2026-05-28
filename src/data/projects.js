@@ -1,4 +1,3 @@
-import mayasHome from '../assets/projects/mayas-home.png'
 export const projects = [
   {
   id: 1,
@@ -11,7 +10,7 @@ export const projects = [
   github: 'https://github.com/Mrhonda12',
   live: mayas-treasures.vercel.app,
   featured: true,
-  image: mayasHome
+  image: null
 },
   {
     id: 2,
